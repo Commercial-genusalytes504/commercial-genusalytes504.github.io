@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>AI 新闻周报 · 第 1 期（2026-08-06）</title>
+    <link href="/2026/08/06/ai-weekly-2026-08-06/"/>
+    <url>/2026/08/06/ai-weekly-2026-08-06/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是本站的第一篇示例周报。每周精选人工智能领域的重要动态、值得关注的开源项目与技术解读。</p></blockquote><h2 id="本期焦点"><a href="#本期焦点" class="headerlink" title="本期焦点"></a>本期焦点</h2><ul><li>某知名实验室发布新一代多模态大模型，数学推理与代码能力大幅提升</li><li>社区开源了可本地部署的轻量级推理框架，消费级显卡即可运行</li><li>多家机构呼吁制定 AI 数据使用的透明化标准</li></ul><h2 id="新闻速览"><a href="#新闻速览" class="headerlink" title="新闻速览"></a>新闻速览</h2><h3 id="📰-产业动态"><a href="#📰-产业动态" class="headerlink" title="📰 产业动态"></a>📰 产业动态</h3><ol><li><strong>新模型发布</strong>：本周某头部厂商开源了参数量达数百亿的 MoE 模型，推理成本显著下降，开发者可在无 GPU 云实例上运行。</li><li><strong>融资与并购</strong>：多家 AI 应用层创业公司完成新一轮融资，聚焦垂直行业的智能体（Agent）落地。</li><li><strong>政策监管</strong>：欧盟与国内监管机构就生成式 AI 的内容标识要求展开新一轮讨论。</li></ol><h3 id="🔧-值得关注的开源项目"><a href="#🔧-值得关注的开源项目" class="headerlink" title="🔧 值得关注的开源项目"></a>🔧 值得关注的开源项目</h3><table><thead><tr><th>项目</th><th>说明</th></tr></thead><tbody><tr><td><code>awesome-ai-agents</code></td><td>汇总各类智能体框架与实践案例，适合入门参考</td></tr><tr><td><code>local-llm-toolkit</code></td><td>一键部署本地大模型的多合一工具集</td></tr><tr><td><code>evaluate-mate</code></td><td>面向 RAG 场景的自动化评测脚本，支持主流向量库</td></tr></tbody></table><h3 id="🧠-技术解读"><a href="#🧠-技术解读" class="headerlink" title="🧠 技术解读"></a>🧠 技术解读</h3><p>本周社区热议的焦点是 <strong>检索增强生成（RAG）的工程化落地</strong>。与其追逐更大的基础模型，不少团队开始转向优化检索质量与上下文压缩，以较低成本提升业务效果。两个关键趋势：</p><ul><li><strong>结构化检索</strong>：将文档切分为语义块并建立层级索引，减少检索噪声；</li><li><strong>后置重排（Rerank）</strong>：在召回阶段之后加入重排模型，显著提升最终答案准确率。</li></ul><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>周报内容会持续迭代。如果你有想深入了解的方向，欢迎留言或通过 issue 提出。</p><hr><p><em>本示例文章用于展示博客排版效果，可随时删除或替换为真实内容。</em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI 周报</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>AI 周报</tag>
+      
+      <tag>大模型</tag>
+      
+      <tag>开源</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
